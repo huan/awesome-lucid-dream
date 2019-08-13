@@ -34,8 +34,7 @@
 
 ## Author
 
-1. [Huan LI (李卓桓)](http://linkedin.com/in/zixia) \<zixia@zixia.net\>
-1. [Grace LI (李佳芮)](https://angel.co/lijiarui)
+[Huan LI (李卓桓)](http://linkedin.com/in/zixia) \<zixia@zixia.net\>
 
 [![Profile of Huan LI (李卓桓) on StackOverflow](https://stackexchange.com/users/flair/265499.png)](https://stackexchange.com/users/265499)
 
