@@ -8,7 +8,7 @@
 1. [Wikipedia: Lucid Dream](https://en.wikipedia.org/wiki/Lucid_dream)
 1. [What Is Lucid Dreaming and How Do I Get Started?](https://lifehacker.com/what-is-lucid-dreaming-and-how-do-i-get-started-1795552901)
 
-[<image src="docs/images/lucid-dreamer-badge.jpg" width="100" />](https://dribbble.com/shots/2972777-Lucid-Dreamer-Patch-Design#shot-description)
+[![lucid dream badge](docs/images/lucid-dreamer-badge.jpg)](https://dribbble.com/shots/2972777-Lucid-Dreamer-Patch-Design#shot-description)
 
 ## Videos
 
