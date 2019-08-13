@@ -12,7 +12,7 @@
 
 ## Videos
 
-1. [How Lucid Dreaming Works](https://www.youtube.com/watch?v=qH-MGqokk_Y)
+1. [How Lucid Dreaming Works - Matthew Walker, Professor of Neuroscience and Psychology at the University of California Berkeley](https://www.youtube.com/watch?v=qH-MGqokk_Y)
 1. [Sleep Paralysis Isn't As Rare as You Think](https://www.youtube.com/watch?v=PXaB89dPQlw)
 
 ## Books
